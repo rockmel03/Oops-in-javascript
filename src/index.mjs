@@ -6,7 +6,8 @@ import "./styles.css";
 // import "./topics/class_objects_and_inheritance.mjs";
 // import "./topics/encapsulation.mjs/"
 // import "./topics/abstraction.mjs";
-import "./topics/polymorphism.mjs";
+// import "./topics/polymorphism.mjs";
+import "./topics/static_keyword.js"
 
 console.log("hellow world");
 
