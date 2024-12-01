@@ -7,7 +7,8 @@ import "./styles.css";
 // import "./topics/encapsulation.mjs/"
 // import "./topics/abstraction.mjs";
 // import "./topics/polymorphism.mjs";
-import "./topics/static_keyword.js"
+// import "./topics/static_keyword.js"
+import "./topics/getters_and_setters.js";
 
 console.log("hellow world");
 
